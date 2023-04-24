@@ -1,0 +1,29 @@
+ARTH is a Revenue and Transaction handling software, or a smaller banking system which is written and developed in C++.
+
+The application has been developed by a group of 4 individuals: -
+
+~Viplove Tyagi			~Manan Garg				~Taha Zuberi			~Manthan Gupta.
+
+The application has been developed as  a mini-project for Semester- II submitted by the above-mentioned individuals. 
+
+The Application includes: -
+
+~ A source code containing the program code (Code.cpp file).
+
+~ An Executable File that can be used as an application (Code.exe).
+
+~ A Binary file that stores all the records (Data.dat).		
+
+The Application provides multiple features such as: -
+
+~ Opening and Closing an account.
+
+~ Displaying account information.
+
+~ Withrawing and depositing money into an account.
+
+~ Modifying an Already existing account.
+
+~ Transfer Money between accounts.
+
+~ Display all the records stored into the system.
